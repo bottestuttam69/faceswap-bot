@@ -1,0 +1,2 @@
+# faceswap-bot
+Bot repo
