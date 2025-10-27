@@ -1,0 +1,13 @@
+{
+  "bot_token": "",
+  "bot_name": "FaceSwap Bot",
+  "announcement_channel": "",
+  "deposit_link": "",
+  "maintenance_mode": false,
+  "earning_mode": true,
+  "credits_per_swap": 1,
+  "inr_per_usdt": 90,
+  "face_api_url": "https://ng-faceswap.vercel.app/api/faceswap",
+  "admin_id": "Palak123@@",
+  "admin_pass": "Palak123@@"
+}
